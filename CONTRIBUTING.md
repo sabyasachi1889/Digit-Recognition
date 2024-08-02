@@ -2,7 +2,7 @@
 
 Thanks for taking the time to contribute! :heart:
 
-The following is a set of guidelines for contributing to Face Recognition Attendance System. These are the guidelines, not rules.
+The following is a set of guidelines for contributing to Digit Recognition  System. These are the guidelines, not rules.
 
 ## Intro
 
